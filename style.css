@@ -1,0 +1,130 @@
+#marca{
+    position: absolute;
+    width: 82px;
+    height: 78px;
+    left: 16px;
+    top: 36px
+}
+
+#barra1{
+   
+    width: 110.87px;
+    height: 130.56px;
+    margin: 0px;
+    padding: 0px;
+    top: -00px;
+    right: -50px;
+    position: absolute;
+}
+
+body{
+    margin: 0px;
+    padding: 0;
+    border: 0;
+}
+
+.container{
+/*    background-color: aqua;*/
+}
+
+.asd{
+/*    background-color: aqua;*/
+    align-content: center;
+    text-align: center;
+    margin-top: 150px;
+}
+
+
+
+.bd-callout-warning {
+    border-left-color: red !important;
+}
+.bd-callout {
+    padding: 1.25rem;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border: 1px solid #eee;
+    border-left-width: .25rem;
+    border-radius: .25rem;
+}
+
+#Local{
+   
+}
+
+#title_chamada{
+    color: red;
+}
+
+#card1{
+    margin-left: -13px;
+    margin-right: -13px;
+}
+
+
+
+#quem_sao{
+
+font-family: Barlow;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #1BBC9B;
+}
+
+.pic_pal{
+    width: 141px;
+    height: 141px;
+}
+
+.caneta{
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 600;
+    margin-left: 0px;
+    font-size: 20px;
+  
+ }
+
+#sympla-widget-773263{
+    align-self: center;
+}
+
+.sympla{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    
+}
+
+.nome_pal{
+    padding-left: 30px;
+    display: inline-block;
+    flex-direction: column;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    font-family: Barlow;
+    font-style: normal;
+    line-height: 15px;
+    
+}
+
+.nome_pal>div{
+    align-self: center;
+}
+
+.jumbotron{
+    color: #2D3E50;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 600;   
+}
